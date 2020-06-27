@@ -12,7 +12,8 @@ new Vue({
 
 
                 
-                <router-link to="/" class="home-btn" exact>Home</router-link>
+                <router-link to="/" class="home-btn">Home</router-link>
+                <!-- <router-link to="/" class="home-btn" exact>Home</router-link> -->
                 <router-link to='/email/inbox'>Email</router-link>
                 <router-link to='/keep'>Keep</router-link>
                 <router-link to='/books'>Books</router-link>
