@@ -59,7 +59,7 @@ text-align: left;
 }
 
 .unicorn {
-    background-image: url('../../img/unicorn.png');
+    /* background-image: url('../../img/unicorn.png'); */
     margin-left: 40%;
     width: 400px;
     height: 400px;

@@ -6,7 +6,8 @@ export default {
             <h1>Appsus by Uri & Na'ama</h1>
         </div>
         
-        <router-link class="unicorn" :to="'/'" > </router-link>
+        <img src="img/unicorn.svg" class="unicorn">
+        
     </section>
     `,
 };
