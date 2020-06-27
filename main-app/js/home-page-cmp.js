@@ -7,7 +7,7 @@ export default {
         </div>
         
         <img src="../../img/unicorn.svg" class="unicorn" width="400" height="400">
-
+        <img src="https://imgur.com/JkuUdSr" class=unicorn">
     </section>
     `,
 };
