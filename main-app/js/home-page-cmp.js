@@ -6,7 +6,7 @@ export default {
             <h1>Appsus by Uri & Na'ama</h1>
         </div>
         
-        <img src="img/unicorn.svg" class="unicorn">
+        <img src="img/unicorn.png" class="unicorn">
         
     </section>
     `,
