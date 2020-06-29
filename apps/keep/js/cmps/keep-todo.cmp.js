@@ -5,7 +5,6 @@ import noteEdit  from './keep-edit.cmp.js'
 
 import {bus,MARK_TODO_DONE,DELETE_TODO} from '../services/keep-event-bus-service.js'
 
-
 export default {
     template: `
         <section
